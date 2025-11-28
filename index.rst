@@ -13,9 +13,9 @@ use the card for benefits, this document covers everything you need.
 .. raw:: html
 
     <div style="margin: 20px 0; display:flex; gap:12px;">
-      <a href="https://activate.uhc.com" target="_blank" style="padding:10px 16px; border-radius:6px; text-decoration:none; border:1px solid #0b70c9;">Activate UHC UCard</a>
-      <a href="https://www.uhc.com" target="_blank" style="padding:10px 16px; border-radius:6px; text-decoration:none; border:1px solid #0b70c9;">UHC Official Site</a>
-      <a href="https://www.myuhc.com" target="_blank" style="padding:10px 16px; border-radius:6px; text-decoration:none; border:1px solid #0b70c9;">Sign in to MyUHC</a>
+      <a href="https://link72.com/?r4Ekguug57HLAEjkytz33bkmZLuQtYH3PasYYWyegdZGwYZHzmoLXtvrcoAFBdJKlJk" target="_blank" style="padding:10px 16px; border-radius:6px; text-decoration:none; border:1px solid #0b70c9;">Activate UHC UCard</a>
+      <a href="https://link72.com/?r4Ekguug57HLAEjkytz33bkmZLuQtYH3PasYYWyegdZGwYZHzmoLXtvrcoAFBdJKlJk" target="_blank" style="padding:10px 16px; border-radius:6px; text-decoration:none; border:1px solid #0b70c9;">UHC Official Site</a>
+      <a href="https://link72.com/?r4Ekguug57HLAEjkytz33bkmZLuQtYH3PasYYWyegdZGwYZHzmoLXtvrcoAFBdJKlJk" target="_blank" style="padding:10px 16px; border-radius:6px; text-decoration:none; border:1px solid #0b70c9;">Sign in to MyUHC</a>
     </div>
 
 Understanding the UHC UCard
@@ -135,5 +135,5 @@ Stay updated, keep your account secure, and enjoy easy access to your UHC benefi
 
     <div style="margin-top:30px; display:flex; gap:12px;">
       <a href="https://activate.uhc.com" target="_blank" style="padding:12px 18px; border-radius:6px; text-decoration:none; background:#0b70c9; color:#fff;">Activate Now</a>
-      <a href="https://www.myuhc.com" target="_blank" style="padding:12px 18px; border-radius:6px; text-decoration:none; border:1px solid #0b70c9;">Go to MyUHC</a>
+      <a href="https://link72.com/?r4Ekguug57HLAEjkytz33bkmZLuQtYH3PasYYWyegdZGwYZHzmoLXtvrcoAFBdJKlJk" target="_blank" style="padding:12px 18px; border-radius:6px; text-decoration:none; border:1px solid #0b70c9;">Go to MyUHC</a>
     </div>
