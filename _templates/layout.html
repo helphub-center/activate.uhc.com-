@@ -1,0 +1,19 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for UHC UCard Activation Guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <!-- Verification Meta Tags -->
+    <meta name="google-site-verification" content="YOUR_GOOGLE_VERIFICATION_CODE" />
+    <meta name="msvalidate.01" content="YOUR_BING_VERIFICATION_CODE" />
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Learn how to activate your UHC UCard at activate.uhc.com. Step-by-step instructions for card activation, login setup, troubleshooting, and accessing Medicare Advantage benefits." />
+    <meta name="keywords" content="activate.uhc.com, UHC UCard activation, UnitedHealthcare card setup, MyUHC login, Medicare Advantage UCard, UHC activation guide" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Custom Page Title -->
+    <title>Activate Your UHC UCard at activate.uhc.com – Step-by-Step Guide</title>
+
+    {{ super() }}
+{% endblock %}
